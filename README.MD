@@ -4,7 +4,7 @@
 Hassan Abdallah
 
 ## Overview
-This project was developed as part of the evaluation for the "Deep Learning" course in the Research Master's in Data Science. The goal is to predict whether a sepsis patient will become cortico-resistant (a bad outcome) or remain cortico-sensitive (a favorable outcome) after receiving corticosteroid medications over several days.
+This project was developed as part of the evaluation for the "Deep Learning" course in my Research Master's in Data Science. The goal is to predict whether a sepsis patient will become cortico-resistant (a bad outcome) or remain cortico-sensitive (a favorable outcome) after receiving corticosteroid medications over several days.
 
 To accomplish this, I utilized an Adaptive Network-Based Fuzzy Inference System (ANFIS) algorithm.
 
