@@ -16,7 +16,7 @@ The ANFIS algorithm used in this project is inspired by the work by Karaboga and
 The implementation of ANFIS used in this project is available at the following repository:
 [ANFIS Implementation on TensorFlow 2.0](https://github.com/gregorLen/AnfisTensorflow2.0)
 
-I have customized this implementation to suit my specific problem, resulting in a modified version of the algorithm found in `myanfis.py` located in the `code` folder.
+I have customized this implementation to suit my specific problem, resulting in a modified version of the algorithm found in `myanfis.py` located in the `src` folder.
 
 ## Project Structure
 - **`src/`**: Contains the modified ANFIS implementation (`myanfis.py`).
